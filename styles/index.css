@@ -111,10 +111,11 @@ img,
 .pct,
 .slidev-layout + .w-full.h-full,
 .slidev-layout.w-full.h-full {
+  --mask-size: 4px;
   filter: saturate(2) contrast(200%) drop-shadow(3px 3px 0 yellow)
     /* drop-shadow(-3px 3px 0 cyan) */ drop-shadow(-2px -2px 0 magenta);
-  mask-image: radial-gradient(circle, transparent 1px, black 0%);
-  mask-size: 3px 3px;
+  mask-image: radial-gradient(circle, black 2px, transparent 0%);
+  mask-size: var(--mask-size) var(--mask-size);
   mask-repeat: repeat;
 }
 
@@ -152,4 +153,25 @@ img,
     background-image: url(./images/misaligned-colour-bars.svg);
     background-repeat: no-repeat;
     background-position: 5px 5px;
+}
+
+ins{
+  text-decoration: none;
+}
+
+ins:before, ins:after {
+  font-family: "Ravie";
+  font-size: 1.2em;
+  vertical-align: baseline;
+  position: relative;
+}
+
+ins:before {
+  content: "(";
+  left: 0.1em;
+}
+
+ins:after {
+  content: ")";
+  left: 0.1em;
 }
