@@ -21,7 +21,7 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 # duration of the presentation
-duration: 10min
+duration: 15min
 layout: intro
 ---
 
@@ -82,6 +82,12 @@ h1:before {
 }
 </style>
 
+<!--
+- Explore how software communities can empower your development team.
+- Community involvement is crucial for professional growth.
+- How you can take advantage of that
+-->
+
 ---
 layout: bio
 image: /images/Unicorn-transparent.png
@@ -96,6 +102,17 @@ tagline: I am where I am today because of software communities
 
 - <logos-mastodon-icon /> [@joe@umbraco&#8239;community.social](https://umbracocommunity.social/joe)
 - <logos-bluesky />  [@joe.gl](https://bsky.app/profile/joe.gl)
+
+<!--
+But who am I and why does what I say matter?
+
+- I'm Joe Glombek.
+- 5-time Umbraco MVP
+- Organizer of the umBristol Meetup
+- and a Senior Developer at Bump.
+- I got here thanks to software communities
+- I certianly have my current job because of my involvement in the community
+-->
 
 ---
 class: quote
@@ -116,6 +133,10 @@ The Umbraco Community is a part of the Umbraco ecosystem, which through action, 
   <cite class="big-quote-cite"> [The Open Source Way](https://guidebook.theopensourceway.org/getting-started/community-101) </cite>
 </blockquote>
 
+<!-- - Let's start by defining what a software community is.
+- According to The Open Source Way, it's a group united by developing, maintaining, and promoting open source software.
+- They share a common vision and camaraderie. -->
+
 ---
 layout: icons-header
 cols: 3
@@ -135,6 +156,10 @@ cols: 3
 
 https://community.umbraco.com/get-involved/
 
+<!-- - Communities involve various activities.
+- Like code contributions, online discussions, blogging, conferences, and meetups.
+- For Umbraco, check out how to get involved at the community site. -->
+
 ---
 layout: image-right
 image: /images/rich-talks-cropped.jpg
@@ -152,6 +177,13 @@ become <solar-heart-bold-duotone style="color: var(--color-mandarin)" /> friends
   }  
 </style>
 
+<!--
+According to Meetup.com
+- The people platform where interests become friendships.
+- But what does that actually mean?
+
+-->
+
 ---
 layout: image-right
 image: /images/rich-talks-cropped.jpg
@@ -159,13 +191,31 @@ image: /images/rich-talks-cropped.jpg
 
 # <solar-map-point-favourite-bold-duotone/> Your Friendly Neighbourhood Meetup
 
-Like a mini-conference thats free to attend!
+Like a mini-conference that's free to attend!
 
 - <solar-hand-shake-bold-duotone/> Socializing
 - <solar-presentation-graph-bold-duotone/> Tech Talks
 - <solar-info-square-bold-duotone/> News
 - <ph-pizza-duotone/> Refreshments
 
+<!--
+- Meetups are like mini-conferences, and they're free to attend.
+- Usually involve:
+  - socializing
+  - tech talks
+  - news
+  - refreshments
+-->
+
+---
+layout: cover
+---
+
+# <ph-pizza-duotone/> Pizza as Professional Development
+
+<!--
+My first argument involves using Pizza as a Professional Development tool
+-->
 
 ---
 layout: icons-header
@@ -183,7 +233,9 @@ layout: icons-header
 </v-clicks>
 
 <!--
-this talk shows why meetups work, backed by research and your own experience
+- [Click] What happens when your team spends work time eating pizza with strangers?
+- [Click] They come back with solutions, shortcuts, and a spark you can’t buy in a training budget.
+- This talk shows why meetups work, backed by research and my own experience.
 -->
 
 ---
@@ -203,7 +255,14 @@ Teams operating in isolation can lead  to:
 
 [Pop!]{v-click .pow}
 
-<!-- Teams operate in closed loops — same codebase, same colleagues, same assumptions. -->
+<!--
+Teams operate in closed loops: same codebase, same colleagues, same assumptions.
+- Can lead to:
+- Reinventing the wheel
+- Slow adoption of new practices
+- Technical debt accumulating quietly
+- Risky decisions made without external validation
+-->
 
 ---
 layout: image
@@ -212,8 +271,16 @@ image: /images/jonathan-shares.webp
 
 [💡]{v-click .pow}
 
-<!-- Quick anecdote from Bristol Umbraco Meetup:
-A moment where someone said “Wait, you can do that?” and changed their approach the next day. -->
+<!--
+- Photo taken at one of our recent meetups
+- Jonathan shared a project he'd been working on recently
+- I think everyone (audience and speaker!) took something away from that session!
+- Whether it was a
+  - previously unknown Umbraco feature
+  - an architecture technique
+  - tips for using Visual Studio
+  - (or just that unrestrained Jonathan can talk for hours about local councils!)
+  -->
 
 ---
 layout: icons-header
@@ -239,6 +306,15 @@ cols: 2
 
 Ingram, C., & Drachen, A. (2020). *How do Software Professionals Use Local Informal Meetups?*
 
+<!--
+But that's anecdotal, let me show you some statistics from this paper by Ingram and Drachen in 2020.
+
+- [Click] 80% acquired information from a meeting that they later followed up
+- [Click] 69% obtained knowledge that allowed them to make improvements to their practice
+- [Click] 45% obtained knowledge that solved a technical problem they *already* had (that's free problem-solving!)
+- [Click] 62% like to ask questions tailored to them (AKA tailored to their work)
+-->
+
 ---
 layout: quote
 ---
@@ -249,6 +325,12 @@ We found participative practice, collective reflection and virtual experimentati
 
 Hemetsberger, A., & Reinhardt, C. (2006). *Learning and Knowledge-building in Open-source Communities: A Social-experiential Approach.*<br>
 on contributing to open source
+
+<!--
+On contibuting to open source Hemetsberger and Reinhardt (2006) say:
+- Read the quote: "We found participative practice, collective reflection and virtual experimentation processes to be explanatory with respect to knowledge-building"
+- Simplified: Contributing to open source communities, receiving feedback and trying new things increased knowledge
+-->
 
 ---
 layout: quote
@@ -261,6 +343,11 @@ it’s an opportunity to \[...\] come back with strategies that make a real diff
 Carl Sargunar, DDD South West Conference Organiser<br>
 on Codegarden conference
 
+<!--
+On the Codegarden conference, Carl Sargunar, DDD South West Conference Organiser Says
+ - Read the quote: "it’s an opportunity to come back with strategies that make a real difference for your team and organisation"
+-->
+
 ---
 layout: quote
 ---
@@ -272,6 +359,23 @@ If you \[...\] want to grow in your role, this is the place to learn, connect, a
 Joke Van Hamme, CEO at 3SIGN and Team Lead at AGConsult<br>
 on Codegarden conference
 
+<!--
+Another one on Codegarden, Joke Van Hamme, CEO at 3SIGN and Team Lead at AGConsult says:
+- Read the quote: "If you want to grow in your role, this is the place to learn, connect, and be inspired"
+ -->
+
+---
+layout: cover
+---
+
+# <solar-water-bold-duotone/> Don\'t let the <ins>open</ins> source run dry
+
+Contibuting to open source strengthens your business
+
+<!--
+But it's not just personal development.
+-->
+
 ---
 layout: icons-header
 cols: 4
@@ -281,10 +385,18 @@ cols: 4
 
 ::icons::
 
-- <solar-users-group-two-rounded-bold-duotone/> Open source isn’t “free” — it’s shared.
+- <solar-users-group-two-rounded-bold-duotone/> Open source isn't "free", it's shared.
 - <solar-hand-heart-bold-duotone/> Not just the "ethical" argument.
 - <solar-dumbbell-small-bold-duotone/> Contributing strengthens the tools your business depends on.
 - <solar-like-bold-duotone/> Supporting maintainers reduces your long‑term risk.
+
+<!--
+- Open source isn't "free", it's shared.
+- Not just the "ethical" argument
+  - not just you *should* contribute back because its open source
+  - there are business cases too
+- Contributing strengthens the tools your business depends on.
+- Supporting maintainers reduces your long-term risk. -->
 
 ---
 layout: quote
@@ -298,7 +410,20 @@ Rich McCloskey, Managing Director at True<br>
 on open source communities
 
 <!--
-Refill What You Rely On
+I chatted to Rich McCloskey, Managing Director at True
+- Read the quote: "We can’t keep draining from a pool and expect it to remain full"
+- Refill what you rely on. -->
+
+---
+layout: cover
+---
+
+# <solar-users-group-rounded-bold-duotone/> Why Superheroes Want Sidekicks
+
+How community can keep your team happier and healthier
+
+<!--
+Another strength of community is its ability to support the people in it.
 -->
 
 ---
@@ -313,8 +438,17 @@ layout: icons-header
 - <solar-chat-square-check-bold-duotone/> A place to share wins, frustrations, and “is it just me?” moments
 - <solar-verified-check-bold-duotone/> A sense of identity and belonging beyond their job title or company
 - <solar-square-academic-cap-2-bold-duotone/> Opportunities to teach, mentor, and feel valued
-- <solar-users-group-two-rounded-bold-duotone/> Reduces isolation — especially in remote/hybrid teams
+- <solar-users-group-two-rounded-bold-duotone/> Reduces isolation, especially in remote/hybrid teams
 - <solar-question-square-bold-duotone/> Provides a safe space to ask “silly” questions
+
+<!--
+
+- A place to share wins, frustrations, and "is it just me?" moments
+- A sense of identity and belonging beyond their job title or company
+- Opportunities to teach, mentor, and feel valued (where these may not be available in a commercial setting)
+- Reduces isolation, especially in remote/hybrid teams
+- Provides a safe space to ask "silly" questions (without feeling you're being judged by more senior team members)
+-->
 
 ---
 layout: quote
@@ -326,6 +460,10 @@ layout: quote
 
 Rich McCloskey, Managing Director at True<br>
 on open source communities
+
+<!--
+Something that came up in my chat with Rich is that his team of "Developers want to be involved in the community" 
+-->
 
 ---
 layout: icons-header
@@ -345,6 +483,13 @@ layout: icons-header
 
 <small>Ingram, C., & Drachen, A. (2020). *How do Software Professionals Use Local Informal Meetups?*</small>
 
+<!--
+In fact, in that same study:
+- [Click] 68% find talking to other technologists reassuring
+- [Click] 59% say it's important to feel part of a community
+- [Click] 57% attend to find friends with shared interests - easy to forget that for some developers coding is a hobby and interest beyond just work
+-->
+
 ---
 layout: quote
 ---
@@ -358,15 +503,29 @@ Ingram, C., & Drachen, A. (2020).
 
 *How do Software Professionals Use Local Informal Meetups?*
 
+<!--
+The study made specific reference to this "Almost every interviewee made comments about the importance of socialising, making friends and establishing a rapport"
+-->
+
 ---
 layout: icons
 ---
 
 Happy employees benefits business too:
 
-- <solar-stopwatch-play-bold-duotone/> Higher retention — people stay where they feel connected
+- <solar-stopwatch-play-bold-duotone/> Higher retention, people stay where they feel connected
 - <solar-emoji-funny-circle-bold-duotone/> Reduce risk of burnout
 - <solar-hand-money-line-duotone/> Employees place a higher value on an employer who supports what they want to do
+
+<!--
+To take our compassionate hats off for a moment, happy employees benefits business directly:
+- Higher retention, people stay where they feel connected
+- Reduce risk of burnout
+- Employees place a higher value on an employer who supports what they want to do
+  - and if taking part in a community is what they want to do 
+  - and they're supported in that
+  - they'll value that employer
+-->
 
 ---
 layout: quote
@@ -379,15 +538,27 @@ layout: quote
 Rich McCloskey, Managing Director at True<br>
 on community training days
 
+<!-- When talking about community training days, Rich also mentioned that "\[Attending\] creates a positive effect more than the cost of a train ticket" -->
+
+---
+layout: cover
 ---
 
-# <solar-map-point-favourite-bold-duotone/> The Umbraco Community & Bristol
+# <solar-shield-star-bold-duotone/> Superpower your team
+How to encourage community involvement in your team
+
+<!--
+- Because open source communities can be so powerful to yoir team
+- let's look at how you can encourage your team to get involved
+- if they want to!
+-->
 
 ---
 layout: icons-header
 ---
 
-# <solar-user-block-rounded-bold-duotone/> Barriers to community
+# <solar-user-block-rounded-bold-duotone/> Community Kryptonite
+Barriers to getting involved in communities
 
 ::icons::
 
@@ -400,6 +571,23 @@ layout: icons-header
 - <solar-shield-cross-bold-duotone/> Employer hostility
 
 </v-clicks>
+
+<!--
+What might be preventing people from being involved [Click]
+- Entirely possible they don't know they can get involved
+  - or how to get involved [Click]
+- Location has an impact too
+  - travelling abroad for conferences
+  - to another city
+  - or into the city if they work remote/office is located outside a city [Click]
+- Taking time out to attend a meetup or contribute when it's in a person's free time
+  - child care
+  - valuing free time [Click]
+- The cost of travelling to a meetup or extending childcare [Click]
+- Some employers are seen to fear sending employees to a meetup
+  - "might get recruited" (they almost certainly won't, unless they're thinking of leaving anyway, LinkedIn)
+  - Some contracts technically forbid contributing to open source in a non-compete clause
+-->
 
 ---
 layout: icons-header
@@ -421,12 +609,52 @@ layout: icons-header
 [KERPOW!]{v-click .pow}
 
 <!--
+How can we overcome some of these obstacles? [Click]
 - Encourage community participation
+  - Let your team know its an option and how you can support them
+  - Attend yourself! [Click]
 - Offer time back to attend meetups
-- Cover bus or train fares to attend meetups
-- Host or sponsor a meetup - a company's attendance always shoots up when its hosted at their office
-- Send **all seniorities** to conferences "I don't think we can justify sending a junior dev to a conference" - how will they improve?!
-- Make open source what you do - I had a contract for a company that worked with open source all the time that (strictly speaking) prohibited contributing!
+  - or partial time (head off early, come in late)
+  - or allow atteding meetups during work time (lunchtime virtual)
+  - ask your local meetup to host during work hours (and offer to host it!)[Click]
+- Cover bus or train fares to attend meetups [Click]
+- Host or sponsor a meetup - a company's attendance always shoots up when its hosted at their office [Click]
+- Send **all seniorities** to conferences
+  - "I don't think we can justify sending a junior dev to a conference" - how will they improve?! [Click]
+- Make open source what you do
+  - I had a contract for a company that worked with open source all the time that (strictly speaking) prohibited contributing!
+  - Allow contributing back code for work projects in work hours
+-->
+
+
+---
+layout: icons-header
+---
+
+# <solar-map-point-favourite-bold-duotone/> The Umbraco Community & Bristol
+
+::icons::
+
+
+<v-clicks>
+
+- <solar-star-shine-bold-duotone/> **Home to Umbraco Spark and Umbraco's UK HQ!**
+- <solar-chat-square-code-bold-duotone/> **Talks meetup every other month**
+- <solar-chat-line-bold-duotone/> **Social meetup every other month**
+- <solar-buildings-bold-duotone/> **In various offices** A company will host and provide pizza and drinks
+- <solar-users-group-two-rounded-bold-duotone/> **10-20 attendees**
+- <solar-user-id-bold-duotone/> **From various companies & agencies** Typically freelancers and employees from ~5 agencies
+
+</v-clicks>
+
+<v-click>
+
+There are Umbraco Meetups all over the UK, and some virtual ones too. https://www.meetup.com/pro/umbraco/
+
+</v-click>
+
+<!--
+
 -->
 
 ---
