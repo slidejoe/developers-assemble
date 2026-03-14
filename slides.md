@@ -21,7 +21,7 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 # duration of the presentation
-duration: 15min
+duration: 10min
 layout: intro
 ---
 
@@ -163,6 +163,7 @@ https://community.umbraco.com/get-involved/
 ---
 layout: image-right
 image: /images/rich-talks-cropped.jpg
+hide: true
 ---
 
 # <solar-map-point-favourite-bold-duotone/> Your Friendly Neighbourhood Meetup
@@ -244,7 +245,7 @@ layout: icons-header
 
 # <solar-circle-top-up-bold-duotone/> Breaking out the bubble
 
-Teams operating in isolation can lead  to:
+Teams operating in isolation can lead to:
 
 :: icons ::
 
@@ -267,6 +268,7 @@ Teams operate in closed loops: same codebase, same colleagues, same assumptions.
 ---
 layout: image
 image: /images/jonathan-shares.webp
+hide: true
 ---
 
 [💡]{v-click .pow}
@@ -280,6 +282,8 @@ image: /images/jonathan-shares.webp
   - an architecture technique
   - tips for using Visual Studio
   - (or just that unrestrained Jonathan can talk for hours about local councils!)
+
+  But that's anecdotal...
   -->
 
 ---
@@ -307,7 +311,7 @@ cols: 2
 Ingram, C., & Drachen, A. (2020). *How do Software Professionals Use Local Informal Meetups?*
 
 <!--
-But that's anecdotal, let me show you some statistics from this paper by Ingram and Drachen in 2020.
+let me show you some statistics from this paper by Ingram and Drachen in 2020.
 
 - [Click] 80% acquired information from a meeting that they later followed up
 - [Click] 69% obtained knowledge that allowed them to make improvements to their practice
@@ -629,6 +633,7 @@ How can we overcome some of these obstacles? [Click]
 
 ---
 layout: icons-header
+hide: true
 ---
 
 # <solar-map-point-favourite-bold-duotone/> The Umbraco Community & Bristol
@@ -657,6 +662,8 @@ There are Umbraco Meetups all over the UK, and some virtual ones too. https://ww
 
 -->
 
+---
+hide: true
 ---
 
 <style>
