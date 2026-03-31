@@ -516,18 +516,31 @@ layout: icons
 Happy employees benefits business too:
 
 - <solar-stopwatch-play-bold-duotone/> Higher retention, people stay where they feel connected
-- <solar-emoji-funny-circle-bold-duotone/> Reduce risk of burnout
 - <solar-hand-money-line-duotone/> Employees place a higher value on an employer who supports what they want to do
+- <solar-emoji-funny-circle-bold-duotone/> Reduce risk of burnout
 
 <!--
 To take our compassionate hats off for a moment, happy employees benefits business directly:
 - Higher retention, people stay where they feel connected
-- Reduce risk of burnout
 - Employees place a higher value on an employer who supports what they want to do
   - and if taking part in a community is what they want to do 
   - and they're supported in that
   - they'll value that employer
+- Reduce risk of burnout
 -->
+
+---
+layout: quote
+---
+
+Community is not a cure for burnout, but it is a reminder that your enthusiasm was never really gone.
+
+::cite::
+
+Mitchell Nortje, Senior Software Developer at Spinbox<br>
+[Finding my Spark through Community](https://www.linkedin.com/pulse/finding-my-spark-through-community-spinbox-digital-q5sme/)
+
+<!--  -->
 
 ---
 layout: quote
@@ -604,6 +617,7 @@ layout: icons-header
 - <solar-hand-money-line-duotone/> Cover expenses
 - <solar-map-point-add-bold-duotone/> Host a meetup
 - <solar-presentation-graph-bold-duotone/> Send to conferences
+- <solar-dumbbell-large-bold-duotone/> Remove the pressure
 - <solar-minimalistic-magnifer-bug-line-duotone/> Contribute to open source
 
 </v-clicks>
@@ -623,6 +637,8 @@ How can we overcome some of these obstacles? [Click]
 - Host or sponsor a meetup - a company's attendance always shoots up when its hosted at their office [Click]
 - Send **all seniorities** to conferences
   - "I don't think we can justify sending a junior dev to a conference" - how will they improve?! [Click]
+- Remove the pressure
+  - "If there is one piece of advice for businesses or managers is don’t put expectations or pressures on developers that go to these events. Let them enjoy the day! Or in my boss’s words, “Just go there and have fun”." - Mitchell Nortje[Click]
 - Make open source what you do
   - I had a contract for a company that worked with open source all the time that (strictly speaking) prohibited contributing!
   - Allow contributing back code for work projects in work hours
