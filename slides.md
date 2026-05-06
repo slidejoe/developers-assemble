@@ -101,7 +101,7 @@ tagline: I am where I am today because of software communities
 <br />
 
 - <logos-mastodon-icon /> [@joe@umbraco&#8239;community.social](https://umbracocommunity.social/joe)
-- <logos-bluesky />  [@joe.gl](https://bsky.app/profile/joe.gl)
+- <logos-bluesky /> [@joe.gl](https://bsky.app/profile/joe.gl)
 
 <!--
 But who am I and why does what I say matter?
@@ -120,7 +120,7 @@ class: quote
 
 # <solar-hand-heart-bold-duotone/> What is a software community?
 
-<!-- The Umbraco Community is made up of over 200,000 talented ysers and passionate people who make sure Umbraco stays up-to-date, sturdy and level for you.
+<!-- The Umbraco Community is made up of over 200,000 talented users and passionate people who make sure Umbraco stays up-to-date, sturdy and level for you.
 
 The Umbraco Community is a part of the Umbraco ecosystem, which through action, involvement and co-operation, makes Umbraco what it is today! -->
 
@@ -159,6 +159,19 @@ https://community.umbraco.com/get-involved/
 <!-- - Communities involve various activities.
 - Like code contributions, online discussions, blogging, conferences, and meetups.
 - For Umbraco, check out how to get involved at the community site. -->
+
+---
+layout: icons-header
+cols: 2
+---
+
+# <solar-hand-heart-bold-duotone/> My software communities
+
+::icons::
+
+- <simple-icons-umbraco/> **Umbraco** A .NET Content Management System
+- <logos-dotnet/> **.NET** Microsoft development platform (mostly C#)
+
 
 ---
 layout: image-right
@@ -551,9 +564,9 @@ layout: quote
 ::cite::
 
 Rich McCloskey, Managing Director at True<br>
-on community training days
+on Umbraco community training days
 
-<!-- When talking about community training days, Rich also mentioned that "\[Attending\] creates a positive effect more than the cost of a train ticket" -->
+<!-- When talking about Umbraco community training days, Rich also mentioned that "\[Attending\] creates a positive effect more than the cost of a train ticket" -->
 
 ---
 layout: cover
@@ -646,7 +659,24 @@ How can we overcome some of these obstacles? [Click]
 
 
 ---
+layout: default
+---
+
+<SlidevVideo autoplay controls style="max-height: 96%">
+  <!-- Anything that can go in an HTML video element. -->
+  <source src="/video/joe-kepley-in-person.mp4" type="video/mp4" />
+  <p>
+    Your browser does not support videos. You may download it
+    <a href="/video/joe-kepley-in-person.mp4">here</a>.
+  </p>
+</SlidevVideo>
+
+
+Joe Kepley, Founder and CTO, Blend Interactive [on LinkedIn](https://www.linkedin.com/posts/joekepley_as-more-and-more-things-happen-online-people-ugcPost-7444522882975555584-6mXX/)
+
+---
 layout: icons-header
+hide: true
 ---
 
 # <solar-map-point-favourite-bold-duotone/> The Umbraco Community & Bristol
@@ -668,6 +698,38 @@ layout: icons-header
 <v-click>
 
 There are Umbraco Meetups all over the UK, and some virtual ones too. https://www.meetup.com/pro/umbraco/
+
+</v-click>
+
+<!--
+
+-->
+
+---
+layout: icons-header
+---
+
+# <solar-map-point-favourite-bold-duotone/> The .NET Community & Bristol
+
+::icons::
+
+
+<v-clicks>
+
+- <ph-cow-duotone/> Home to DDD South West!
+- <solar-chat-square-code-bold-duotone/> Meetup every month or two*
+- <solar-buildings-bold-duotone/> Hosted in central Bristol
+- <ph-pizza-duotone/> With pizza and drinks
+- <solar-users-group-two-rounded-bold-duotone/> 20-50 attendees
+- <solar-user-id-bold-duotone/> From various companies
+
+</v-clicks>
+
+<v-click>
+
+https://meetup.com/dotnetsouthwest &middot; https://meetup.com/umbristol
+
+It's not just .NET and not just here! There are tech Meetups all over the UK, and some virtual ones too. https://www.meetup.com
 
 </v-click>
 
