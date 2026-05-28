@@ -126,9 +126,9 @@ The Umbraco Community is a part of the Umbraco ecosystem, which through action, 
 
 <blockquote class="big-quote">
 
-  A group of people united by the shared purpose of developing, maintaining, extending, and promoting a specific body of open source software. \[...\]
+  A **group of people united by** the shared purpose of **developing**, **maintaining**, extending, and **promoting** a specific body of **open source software**. \[...\]
 
-  What unites them is their common vision for the open source software project—as well as the spirit of camaraderie and collective identity that participating in the community affords them.
+  What unites them is their **common vision** for the open source software project—as well as the spirit of **camaraderie** and collective identity that participating in the community affords them.
 
   <cite class="big-quote-cite"> [The Open Source Way](https://guidebook.theopensourceway.org/getting-started/community-101) </cite>
 </blockquote>
@@ -163,6 +163,7 @@ https://community.umbraco.com/get-involved/
 ---
 layout: icons-header
 cols: 2
+hide: true
 ---
 
 # <solar-hand-heart-bold-duotone/> My software communities
@@ -688,7 +689,7 @@ hide: true
 
 - <solar-star-shine-bold-duotone/> **Home to Umbraco Spark and Umbraco's UK HQ!**
 - <solar-chat-square-code-bold-duotone/> **Talks meetup every other month**
-- <solar-chat-line-bold-duotone/> **Social meetup every other month**
+- <solar-chat-line-bold-duotone/> **"Social" meetup every other month**
 - <solar-buildings-bold-duotone/> **In various offices** A company will host and provide pizza and drinks
 - <solar-users-group-two-rounded-bold-duotone/> **10-20 attendees**
 - <solar-user-id-bold-duotone/> **From various companies & agencies** Typically freelancers and employees from ~5 agencies
@@ -707,6 +708,7 @@ There are Umbraco Meetups all over the UK, and some virtual ones too. https://ww
 
 ---
 layout: icons-header
+hide: true
 ---
 
 # <solar-map-point-favourite-bold-duotone/> The .NET Community & Bristol
@@ -757,6 +759,7 @@ It's not just .NET and not just here! There are tech Meetups all over the UK, an
 
 # <solar-link-square-bold-duotone/> In the same thematic universe . . .
 
+- <solar-hand-heart-bold-duotone/> https://www.meetup.com/pro/umbraco/
 - <solar-link-square-bold-duotone/> https://codegarden.umbraco.com/convince-your-boss/
 - <solar-link-square-bold-duotone/> [Ingram, C., & Drachen, A. (2020). *How do Software Professionals Use Local Informal Meetups?*](https://pure.york.ac.uk/portal/en/publications/how-do-software-professionals-use-local-informal-meetups/)
 - <solar-link-square-bold-duotone/> [Hemetsberger, A., & Reinhardt, C. (2006). *Learning and Knowledge-building in Open-source Communities: A Social-experiential Approach.*](https://journals.sagepub.com/doi/10.1177/1350507606063442) [(Free)](https://www.researchgate.net/publication/240281996_Learning_and_Knowledge-Building_in_Open-Source_Communities_A_Social-Experiential_Approach)
