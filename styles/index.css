@@ -109,8 +109,9 @@ body,
 img,
 .pow,
 .pct,
-.slidev-layout + .w-full.h-full,
-.slidev-layout.w-full.h-full {
+.slidev-layout + .w-full.h-full {
+/* .slidev-layout + .w-full.h-full,
+.slidev-layout.w-full.h-full { */
   --mask-size: 4px;
   filter: saturate(2) contrast(200%) drop-shadow(3px 3px 0 yellow)
     /* drop-shadow(-3px 3px 0 cyan) */ drop-shadow(-2px -2px 0 magenta);
